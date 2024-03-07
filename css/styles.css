@@ -165,7 +165,7 @@ body{
     flex-shrink: 0;
 }
 .aside-link:hover .aside-icon{
-    transform: rotate(-45deg) scale(1.1);
+    transform: rotate(-45deg) scale(1.2);
 }
 .description{
     opacity: 0;
